@@ -1,0 +1,2 @@
+sentence = "Today Is A BeautiFul DAY"
+print(sentence.lower())
